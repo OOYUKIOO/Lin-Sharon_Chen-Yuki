@@ -1,3 +1,8 @@
+# Sharon Lin and Yuki Chen
+# SoftDev1 PD8
+# HW01 -- Divine your Destiny
+# 2016-09-15
+
 import csv, random
 #dictionary
 jobs = dict()
